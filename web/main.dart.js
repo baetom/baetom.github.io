@@ -59846,7 +59846,7 @@ $S:13}
 A.Vp.prototype={}
 A.Cl.prototype={
 M(a){var s=null
-return new A.tx(new A.rK("\ub7ed\ud0a4 \ub4dc\ub85c\uc6b0",s),"easy_sidemenu Demo",A.adf(s,B.fV,s),!1,s)}}
+return new A.tx(new A.rK("\ub7ed\ud0a4 \ub4dc\ub85c\uc6b0",s),"\ub7f0\ub4dc\ub9ac\uace0 \ub7ed\ud0a4\ub4dc\ub85c\uc6b0",A.adf(s,B.fV,s),!1,s)}}
 A.f4.prototype={
 fN(){return A.aw(["name",this.a,"isLucky",this.b],t.N,t.z)}}
 A.rK.prototype={
